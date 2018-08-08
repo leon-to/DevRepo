@@ -1,0 +1,6 @@
+[submodule "LogisticRegressionInMultiLanguages"]
+	path = LogisticRegressionInMultiLanguages
+	url = https://github.com/tokhoi/LogisticRegressionInMultiLanguages.git
+[submodule "ScikitLearnSeries"]
+	path = ScikitLearnSeries
+	url = https://github.com/tokhoi/ScikitLearnSeries.git
