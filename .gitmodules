@@ -4,3 +4,15 @@
 [submodule "ScikitLearnSeries"]
 	path = ScikitLearnSeries
 	url = https://github.com/tokhoi/ScikitLearnSeries.git
+[submodule "ChatBox"]
+	path = ChatBox
+	url = https://github.com/tokhoi/ChatBox.git
+[submodule "tech-interview-handbook"]
+	path = tech-interview-handbook
+	url = https://github.com/yangshun/tech-interview-handbook.git
+[submodule "CLRS"]
+	path = CLRS
+	url = https://github.com/tokhoi/CLRS.git
+[submodule "TensorflowTutorials"]
+	path = TensorflowTutorials
+	url = https://github.com/tokhoi/TensorflowTutorials.git
