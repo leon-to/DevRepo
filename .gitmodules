@@ -16,3 +16,6 @@
 [submodule "TensorflowTutorials"]
 	path = TensorflowTutorials
 	url = https://github.com/tokhoi/TensorflowTutorials.git
+[submodule "TradingBot"]
+	path = TradingBot
+	url = https://github.com/tokhoi/TradingBot.git
